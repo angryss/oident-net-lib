@@ -11,7 +11,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Folder Include="OAuth\" />
+      <Folder Include="ExternalContracts\Database\" />
     </ItemGroup>
 
 </Project>

@@ -1,6 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 
-namespace AngrySS.OAuthSrv.Infra.Database.Entities;
+namespace OIdentNetLib.Infra.Database.Entities;
 
 public class ClientAudienceScope : BaseEntity
 {

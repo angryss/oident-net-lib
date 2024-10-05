@@ -1,7 +1,7 @@
-using AngrySS.OAuthSrv.Infra.Database.Entities;
 using Microsoft.EntityFrameworkCore;
+using OIdentNetLib.Infra.Database.Entities;
 
-namespace AngrySS.OAuthSrv.Infra.Database;
+namespace OIdentNetLib.Infra.Database;
 
 public class OAuthSrvDbContext : DbContext
 {
